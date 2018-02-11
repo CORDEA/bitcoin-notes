@@ -9,3 +9,7 @@
 ## Calculation
 
 - 単純な方法としては、nonce をインクリメントしながら hash を計算していく方法がある
+
+## Ref
+
+- http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf
