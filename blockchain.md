@@ -23,3 +23,11 @@ Bitcoin の場合はさらに以下が含まれる
 - transactions
 - bits
 - nonce
+
+## Ref
+
+- http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf
+- https://github.com/bitcoin/bitcoin/blob/master/src/miner.cpp
+- https://github.com/bitcoin/bitcoin/blob/master/src/primitives/block.cpp
+- https://en.bitcoin.it/wiki/Genesis_block
+- https://github.com/lhartikk/naivechain/blob/master/main.js
