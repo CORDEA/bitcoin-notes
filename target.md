@@ -12,3 +12,9 @@
 
 - target 以下でないといけないとはどういうことか
   - https://www.anintegratedworld.com/what-does-hash-lower-than-a-bitcoin-target-mean-with-example/
+
+## Ref
+
+- http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf
+- https://www.anintegratedworld.com/what-does-hash-lower-than-a-bitcoin-target-mean-with-example/
+- https://en.bitcoin.it/wiki/Target
